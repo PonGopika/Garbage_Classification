@@ -1,1 +1,1 @@
-# Garbage_Classification
+AICTE Internship
